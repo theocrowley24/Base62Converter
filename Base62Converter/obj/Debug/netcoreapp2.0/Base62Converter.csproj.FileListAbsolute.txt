@@ -1,0 +1,11 @@
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\bin\Debug\netcoreapp2.0\Base62Converter.deps.json
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\bin\Debug\netcoreapp2.0\Base62Converter.runtimeconfig.json
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\bin\Debug\netcoreapp2.0\Base62Converter.runtimeconfig.dev.json
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\bin\Debug\netcoreapp2.0\Base62Converter.dll
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\bin\Debug\netcoreapp2.0\Base62Converter.pdb
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.csprojResolveAssemblyReference.cache
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.csproj.CoreCompileInputs.cache
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.AssemblyInfoInputs.cache
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.AssemblyInfo.cs
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.dll
+c:\users\theo\documents\visual studio 2017\Projects\Base62Converter\Base62Converter\obj\Debug\netcoreapp2.0\Base62Converter.pdb
